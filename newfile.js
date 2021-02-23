@@ -1,5 +1,6 @@
 
 // (TODO): This can be removed once we're sure everything is working as expected
+console.log('new test file');
 // function mergeEmptyPacketWithLastRevision(
 //   review, firstPacket: Packet, commitsIndex: Dict<GithubCommit>) {
 //   if (_.isEmpty(review.revisions) || !firstPacket) return false;
